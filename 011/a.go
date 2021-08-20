@@ -1,5 +1,10 @@
 // Copyright 2021 by Alee Azam
 // --------- ---- -- ---- ----
+//
+// real	0m0.168s
+// user	0m0.205s
+// sys	0m0.086s
+
 
 package main
 
