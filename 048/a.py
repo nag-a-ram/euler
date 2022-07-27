@@ -15,3 +15,5 @@ for i in range(1, 1001):
     total += i ** i
 
 print(str(total)[-10:])
+
+# print(str(sum([i**i for i in range(1, 1001)]))[-10:])
