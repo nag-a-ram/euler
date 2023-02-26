@@ -12,4 +12,4 @@ int main(void)
   printf("the answer is %i", sum);
 }
 
-// written by @aliazam
+// written by @agzg

@@ -1,5 +1,4 @@
-// Copyright 2021 by Alee Azam
-// --------- ---- -- ---- ----
+// Written by @agzg
 // run 10.8811991s, build 10.740976852s
 
 package main

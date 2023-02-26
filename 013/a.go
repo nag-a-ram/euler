@@ -117,4 +117,4 @@ func main() {
 	fmt.Println("the answer is", strconv.Itoa(out)[:10])
 }
 
-// written by @aliazam
+// written by @agzg

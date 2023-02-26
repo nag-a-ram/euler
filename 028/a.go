@@ -19,4 +19,4 @@ func main() {
 	fmt.Println("the solution is", s)
 }
 
-// written by @aliazam (Alaz)
+// written by @agzg

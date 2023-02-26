@@ -8,4 +8,4 @@ print("the answer is", sum(
     [int(x) for x in list(str(factorial(100)))]
 ))
 
-# written by @aliazam (Alaz)
+# written by @agzg

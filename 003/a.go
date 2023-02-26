@@ -13,4 +13,4 @@ func main() {
 	print("the answer is", num)
 }
 
-// written by @aliazam
+// written by @agzg

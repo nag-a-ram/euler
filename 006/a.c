@@ -26,4 +26,4 @@ int odd(int n)
     return (n * 2) - 1;
 }
 
-// written by @aliazam
+// written by @agzg

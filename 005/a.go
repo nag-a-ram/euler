@@ -39,4 +39,4 @@ func main() {
 	fmt.Printf("the answer is %d", product)
 }
 
-// made by @aliazam
+// made by @agzg

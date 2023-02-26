@@ -50,4 +50,4 @@ func pow(n, p int) int {
 	return out
 }
 
-// written by @aliazam
+// written by @agzg

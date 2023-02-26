@@ -20,4 +20,4 @@ func main() {
 	print("the answer is ", sum)
 }
 
-// written by @aliazam
+// written by @agzg

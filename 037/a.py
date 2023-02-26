@@ -1,6 +1,5 @@
 """
-Copyright 2021 Alee Azam
---------- ---- ---- ----
+Written by @agzg
 
 real    0m4.631s
 user    0m4.625s

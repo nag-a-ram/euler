@@ -1,4 +1,4 @@
-// Copyright 2021 by Alee Azam
+// Written by @agzg
 
 package main
 

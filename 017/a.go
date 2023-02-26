@@ -69,4 +69,4 @@ func bint(b byte) int {
 	return o
 }
 
-// written by @aliazam (Alaz)
+// written by @agzg

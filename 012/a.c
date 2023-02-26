@@ -39,4 +39,4 @@ int tri(int n)
 	return (n * (n+1))/2;
 }
 
-// written by @aliazam
+// written by @agzg

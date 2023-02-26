@@ -1,6 +1,5 @@
 """
-Copyright 2021 Alee Azam
---------- ---- ---- ----
+Written by @agzg
 
 I am not proud that it's brute force, nonetheless it's pretty darn fast.
 

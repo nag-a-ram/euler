@@ -45,4 +45,4 @@ func indexI(f float64, i int) float64 {
 	return float64(c)
 }
 
-// written by @aliazam (Alee)
+// written by @agzg

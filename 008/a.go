@@ -25,4 +25,4 @@ func multi(array string) int {
 	return out
 }
 
-// written by @aliazam
+// written by @agzg
